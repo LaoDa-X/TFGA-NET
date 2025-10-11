@@ -1,0 +1,394 @@
+Please enter the change description:	 
+If no checkpoints or initial models were found, train from scratch.
+
+After loading:
+learning rate:0.0001000000
+lr_scheduler.last_epoch：1
+Best SISDRi：-inf
+
+Epoch 1/60
+Epoch 1 - Train: 100%|██████████| [-sisdr=-8.6729, sisdri=8.3271]
+Train  -SISDR: -8.6729, SISDRi: 8.3271
+Epoch 1 - Valid: 100%|██████████| [-sisdr=-10.7967, sisdri=10.3983]
+Valid  -SISDR: -7.7967, SISDRi: 7.3983
+Update the best model (SISDRi=10.3983)
+
+Epoch 2/60
+Epoch 2 - Train: 100%|██████████| [-sisdr=-12.4431, sisdri=12.0973]
+Train  -SISDR: -12.4431, SISDRi: 12.0973
+Epoch 2 - Valid: 100%|██████████| [-sisdr=-12.7809, sisdri=12.3825]
+Valid  -SISDR: -11.7809, SISDRi: 11.3825
+Update the best model (SISDRi=12.3825)
+
+Epoch 3/60
+Epoch 3 - Train: 100%|██████████| [-sisdr=-14.0911, sisdri=13.7453]
+Train  -SISDR: -14.0911, SISDRi: 13.7453
+Epoch 3 - Valid: 100%|██████████| [-sisdr=-13.7745, sisdri=13.3761]
+Valid  -SISDR: -12.7745, SISDRi: 12.3761
+Update the best model (SISDRi=13.3761)
+
+Epoch 4/60
+Epoch 4 - Train: 100%|██████████| [-sisdr=-15.2133, sisdri=14.8675]
+Train  -SISDR: -15.2133, SISDRi: 14.8675
+Epoch 4 - Valid: 100%|██████████| [-sisdr=-14.1622, sisdri=13.7638]
+Valid  -SISDR: -14.1622, SISDRi: 13.7638
+Update the best model (SISDRi=13.7638)
+
+Epoch 5/60
+Epoch 5 - Train: 100%|██████████| [-sisdr=-15.9826, sisdri=15.6368]
+Train  -SISDR: -15.9826, SISDRi: 15.6368
+Epoch 5 - Valid: 100%|██████████| [-sisdr=-14.5994, sisdri=14.2010]
+Valid  -SISDR: -14.5994, SISDRi: 14.2010
+Update the best model (SISDRi=14.2010)
+
+Epoch 6/60
+Epoch 6 - Train: 100%|██████████| [-sisdr=-16.5443, sisdri=16.1985]
+Train  -SISDR: -16.5443, SISDRi: 16.1985
+Epoch 6 - Valid: 100%|██████████| [-sisdr=-14.9244, sisdri=14.5260]
+Valid  -SISDR: -14.9244, SISDRi: 14.5260
+Update the best model (SISDRi=14.5260)
+
+Epoch 7/60
+Epoch 7 - Train: 100%|██████████| [-sisdr=-17.1546, sisdri=16.8088]
+Train  -SISDR: -17.1546, SISDRi: 16.8088
+Epoch 7 - Valid: 100%|██████████| [-sisdr=-15.1645, sisdri=14.7661]
+Valid  -SISDR: -15.1645, SISDRi: 14.7661
+Update the best model (SISDRi=14.7661)
+
+Epoch 8/60
+Epoch 8 - Train: 100%|██████████| [-sisdr=-17.6392, sisdri=17.2934]
+Train  -SISDR: -17.6392, SISDRi: 17.2934
+Epoch 8 - Valid: 100%|██████████| [-sisdr=-15.1405, sisdri=14.7421]
+Valid  -SISDR: -15.1405, SISDRi: 14.7421
+
+Epoch 9/60
+Epoch 9 - Train: 100%|██████████| [-sisdr=-17.9497, sisdri=17.6039]
+Train  -SISDR: -17.9497, SISDRi: 17.6039
+Epoch 9 - Valid: 100%|██████████| [-sisdr=-15.3094, sisdri=14.9110]
+Valid  -SISDR: -15.3094, SISDRi: 14.9110
+Update the best model (SISDRi=14.9110)
+
+Epoch 10/60
+Epoch 10 - Train: 100%|██████████| [-sisdr=-18.3555, sisdri=18.0097]
+Train  -SISDR: -18.3555, SISDRi: 18.0097
+Epoch 10 - Valid: 100%|██████████| [-sisdr=-15.3451, sisdri=14.9467]
+Valid  -SISDR: -15.3451, SISDRi: 14.9467
+Update the best model (SISDRi=14.9467)
+
+Epoch 11/60
+Epoch 11 - Train: 100%|██████████| [-sisdr=-18.6580, sisdri=18.3122]
+Train  -SISDR: -18.6580, SISDRi: 18.3122
+Epoch 11 - Valid: 100%|██████████| [-sisdr=-15.4345, sisdri=15.0361]
+Valid  -SISDR: -15.4345, SISDRi: 15.0361
+Update the best model (SISDRi=15.0361)
+
+Epoch 12/60
+Epoch 12 - Train: 100%|██████████| [-sisdr=-18.9486, sisdri=18.6028]
+Train  -SISDR: -18.9486, SISDRi: 18.6028
+Epoch 12 - Valid: 100%|██████████| [-sisdr=-15.4950, sisdri=15.0966]
+Valid  -SISDR: -15.4950, SISDRi: 15.0966
+Update the best model (SISDRi=15.0966)
+
+Epoch 13/60
+Epoch 13 - Train: 100%|██████████| [-sisdr=-19.2274, sisdri=18.8816]
+Train  -SISDR: -19.2274, SISDRi: 18.8816
+Epoch 13 - Valid: 100%|██████████| [-sisdr=-15.6094, sisdri=15.2110]
+Valid  -SISDR: -15.6094, SISDRi: 15.2110
+Update the best model (SISDRi=15.2110)
+
+Epoch 14/60
+Epoch 14 - Train: 100%|██████████| [-sisdr=-19.4295, sisdri=19.0837]
+Train  -SISDR: -19.4295, SISDRi: 19.0837
+Epoch 14 - Valid: 100%|██████████| [-sisdr=-15.5088, sisdri=15.1104]
+Valid  -SISDR: -15.5088, SISDRi: 15.1104
+
+Epoch 15/60
+Epoch 15 - Train: 100%|██████████| [-sisdr=-19.6069, sisdri=19.2611]
+Train  -SISDR: -19.6069, SISDRi: 19.2611
+Epoch 15 - Valid: 100%|██████████| [-sisdr=-15.5470, sisdri=15.1486]
+Valid  -SISDR: -15.5470, SISDRi: 15.1486
+
+Epoch 16/60
+Epoch 16 - Train: 100%|██████████| [-sisdr=-19.8665, sisdri=19.5207]
+Train  -SISDR: -19.8665, SISDRi: 19.5207
+Epoch 16 - Valid: 100%|██████████| [-sisdr=-15.5449, sisdri=15.1465]
+Valid  -SISDR: -15.5449, SISDRi: 15.1465
+
+Epoch 17/60
+Epoch 17 - Train: 100%|██████████| [-sisdr=-20.0605, sisdri=19.7147]
+Train  -SISDR: -20.0605, SISDRi: 19.7147
+Epoch 17 - Valid: 100%|██████████| [-sisdr=-15.5596, sisdri=15.1612]
+Valid  -SISDR: -15.5596, SISDRi: 15.1612
+
+Epoch 18/60
+Epoch 18 - Train: 100%|██████████| [-sisdr=-20.2424, sisdri=19.8966]
+Train  -SISDR: -20.2424, SISDRi: 19.8966
+Epoch 18 - Valid: 100%|██████████| [-sisdr=-15.6742, sisdri=15.2758]
+Valid  -SISDR: -15.6742, SISDRi: 15.2758
+Update the best model (SISDRi=15.2758)
+
+Epoch 19/60
+Epoch 19 - Train: 100%|██████████| [-sisdr=-20.4142, sisdri=20.0684]
+Train  -SISDR: -20.4142, SISDRi: 20.0684
+Epoch 19 - Valid: 100%|██████████| [-sisdr=-15.6936, sisdri=15.2952]
+Valid  -SISDR: -15.6936, SISDRi: 15.2952
+Update the best model (SISDRi=15.2952)
+
+Epoch 20/60
+Epoch 20 - Train: 100%|██████████| [-sisdr=-21.0081, sisdri=20.6623]
+Train  -SISDR: -21.0081, SISDRi: 20.6623
+Epoch 20 - Valid: 100%|██████████| [-sisdr=-15.7863, sisdri=15.3879]
+Valid  -SISDR: -15.7863, SISDRi: 15.3879
+Update the best model (SISDRi=15.3879)
+
+Epoch 21/60
+Epoch 21 - Train: 100%|██████████| [-sisdr=-21.1869, sisdri=20.8411]
+Train  -SISDR: -21.1869, SISDRi: 20.8411
+Epoch 21 - Valid: 100%|██████████| [-sisdr=-15.7670, sisdri=15.3686]
+Valid  -SISDR: -15.7670, SISDRi: 15.3686
+
+Epoch 22/60
+Epoch 22 - Train: 100%|██████████| [-sisdr=-21.3001, sisdri=20.9543]
+Train  -SISDR: -21.3001, SISDRi: 20.9543
+Epoch 22 - Valid: 100%|██████████| [-sisdr=-15.9092, sisdri=15.5108]
+Valid  -SISDR: -15.9092, SISDRi: 15.5108
+Update the best model (SISDRi=15.5108)
+
+Epoch 23/60
+Epoch 23 - Train: 100%|██████████| [-sisdr=-21.4117, sisdri=21.0659]
+Train  -SISDR: -21.4117, SISDRi: 21.0659
+Epoch 23 - Valid: 100%|██████████| [-sisdr=-15.7402, sisdri=15.3418]
+Valid  -SISDR: -15.7402, SISDRi: 15.3418
+
+Epoch 24/60
+Epoch 24 - Train: 100%|██████████| [-sisdr=-21.5001, sisdri=21.1543]
+Train  -SISDR: -21.5001, SISDRi: 21.1543
+Epoch 24 - Valid: 100%|██████████| [-sisdr=-15.7634, sisdri=15.3650]
+Valid  -SISDR: -15.7634, SISDRi: 15.3650
+
+Epoch 25/60
+Epoch 25 - Train: 100%|██████████| [-sisdr=-21.5963, sisdri=21.2505]
+Train  -SISDR: -21.5963, SISDRi: 21.2505
+Epoch 25 - Valid: 100%|██████████| [-sisdr=-15.7433, sisdri=15.3449]
+Valid  -SISDR: -15.7433, SISDRi: 15.3449
+
+Epoch 26/60
+Epoch 26 - Train: 100%|██████████| [-sisdr=-21.6762, sisdri=21.3304]
+Train  -SISDR: -21.6762, SISDRi: 21.3304
+Epoch 26 - Valid: 100%|██████████| [-sisdr=-15.7724, sisdri=15.3740]
+Valid  -SISDR: -15.7724, SISDRi: 15.3740
+
+Epoch 27/60
+Epoch 27 - Train: 100%|██████████| [-sisdr=-21.7618, sisdri=21.4160]
+Train  -SISDR: -21.7618, SISDRi: 21.4160
+Epoch 27 - Valid: 100%|██████████| [-sisdr=-15.7726, sisdri=15.3742]
+Valid  -SISDR: -15.7726, SISDRi: 15.3742
+
+Epoch 28/60
+Epoch 28 - Train: 100%|██████████| [-sisdr=-21.8428, sisdri=21.4970]
+Train  -SISDR: -21.8428, SISDRi: 21.4970
+Epoch 28 - Valid: 100%|██████████| [-sisdr=-15.7623, sisdri=15.3639]
+Valid  -SISDR: -15.7623, SISDRi: 15.3639
+
+Epoch 29/60
+Epoch 29 - Train: 100%|██████████| [-sisdr=-21.9194, sisdri=21.5736]
+Train  -SISDR: -21.9194, SISDRi: 21.5736
+Epoch 29 - Valid: 100%|██████████| [-sisdr=-15.7431, sisdri=15.3447]
+Valid  -SISDR: -15.7431, SISDRi: 15.3447
+
+Epoch 30/60
+Epoch 30 - Train: 100%|██████████| [-sisdr=-21.9861, sisdri=21.6403]
+Train  -SISDR: -21.9861, SISDRi: 21.6403
+Epoch 30 - Valid: 100%|██████████| [-sisdr=-15.7534, sisdri=15.3550]
+Valid  -SISDR: -15.7534, SISDRi: 15.3550
+
+Epoch 31/60
+Epoch 31 - Train: 100%|██████████| [-sisdr=-22.0623, sisdri=21.7165]
+Train  -SISDR: -22.0623, SISDRi: 21.7165
+Epoch 31 - Valid: 100%|██████████| [-sisdr=-15.7647, sisdri=15.3663]
+Valid  -SISDR: -15.7647, SISDRi: 15.3663
+
+Epoch 32/60
+Epoch 32 - Train: 100%|██████████| [-sisdr=-22.1246, sisdri=21.7788]
+Train  -SISDR: -22.1246, SISDRi: 21.7788
+Epoch 32 - Valid: 100%|██████████| [-sisdr=-15.7230, sisdri=15.3246]
+Valid  -SISDR: -15.7230, SISDRi: 15.3246
+
+Epoch 33/60
+Epoch 33 - Train: 100%|██████████| [-sisdr=-22.2018, sisdri=21.8560]
+Train  -SISDR: -22.2018, SISDRi: 21.8560
+Epoch 33 - Valid: 100%|██████████| [-sisdr=-15.7738, sisdri=15.3754]
+Valid  -SISDR: -15.7738, SISDRi: 15.3754
+
+Epoch 34/60
+Epoch 34 - Train: 100%|██████████| [-sisdr=-22.2583, sisdri=21.9125]
+Train  -SISDR: -22.2583, SISDRi: 21.9125
+Epoch 34 - Valid: 100%|██████████| [-sisdr=-15.7409, sisdri=15.3425]
+Valid  -SISDR: -15.7409, SISDRi: 15.3425
+
+Epoch 35/60
+Epoch 35 - Train: 100%|██████████| [-sisdr=-22.3251, sisdri=21.9793]
+Train  -SISDR: -22.3251, SISDRi: 21.9793
+Epoch 35 - Valid: 100%|██████████| [-sisdr=-15.7822, sisdri=15.3838]
+Valid  -SISDR: -15.7822, SISDRi: 15.3838
+
+Epoch 36/60
+Epoch 36 - Train: 100%|██████████| [-sisdr=-22.3894, sisdri=22.0436]
+Train  -SISDR: -22.3894, SISDRi: 22.0436
+Epoch 36 - Valid: 100%|██████████| [-sisdr=-15.7697, sisdri=15.3713]
+Valid  -SISDR: -15.7697, SISDRi: 15.3713
+
+Epoch 37/60
+Epoch 37 - Train: 100%|██████████| [-sisdr=-22.4471, sisdri=22.1013]
+Train  -SISDR: -22.4471, SISDRi: 22.1013
+Epoch 37 - Valid: 100%|██████████| [-sisdr=-15.7868, sisdri=15.3884]
+Valid  -SISDR: -15.7868, SISDRi: 15.3884
+
+Epoch 38/60
+Epoch 38 - Train: 100%|██████████| [-sisdr=-22.5064, sisdri=22.1606]
+Train  -SISDR: -22.5064, SISDRi: 22.1606
+Epoch 38 - Valid: 100%|██████████| [-sisdr=-15.7630, sisdri=15.3646]
+Valid  -SISDR: -15.7630, SISDRi: 15.3646
+
+Epoch 39/60
+Epoch 39 - Train: 100%|██████████| [-sisdr=-22.5680, sisdri=22.2222]
+Train  -SISDR: -22.5680, SISDRi: 22.2222
+Epoch 39 - Valid: 100%|██████████| [-sisdr=-15.7271, sisdri=15.3287]
+Valid  -SISDR: -15.7271, SISDRi: 15.3287
+
+Epoch 40/60
+Epoch 40 - Train: 100%|██████████| [-sisdr=-22.8303, sisdri=22.4845]
+Train  -SISDR: -22.8303, SISDRi: 22.4845
+Epoch 40 - Valid: 100%|██████████| [-sisdr=-15.7731, sisdri=15.3747]
+Valid  -SISDR: -15.7731, SISDRi: 15.3747
+
+Epoch 41/60
+Epoch 41 - Train: 100%|██████████| [-sisdr=-22.9132, sisdri=22.5674]
+Train  -SISDR: -22.9132, SISDRi: 22.5674
+Epoch 41 - Valid: 100%|██████████| [-sisdr=-15.7699, sisdri=15.3715]
+Valid  -SISDR: -15.7699, SISDRi: 15.3715
+
+Epoch 42/60
+Epoch 42 - Train: 100%|██████████| [-sisdr=-22.9595, sisdri=22.6137]
+Train  -SISDR: -22.9595, SISDRi: 22.6137
+Epoch 42 - Valid: 100%|██████████| [-sisdr=-15.7807, sisdri=15.3823]
+Valid  -SISDR: -15.7807, SISDRi: 15.3823
+
+Epoch 43/60
+Epoch 43 - Train: 100%|██████████| [-sisdr=-22.9971, sisdri=22.6513]
+Train  -SISDR: -22.9971, SISDRi: 22.6513
+Epoch 43 - Valid: 100%|██████████| [-sisdr=-15.7833, sisdri=15.3849]
+Valid  -SISDR: -15.7833, SISDRi: 15.3849
+
+Epoch 44/60
+Epoch 44 - Train: 100%|██████████| [-sisdr=-23.0357, sisdri=22.6899]
+Train  -SISDR: -23.0357, SISDRi: 22.6899
+Epoch 44 - Valid: 100%|██████████| [-sisdr=-15.7729, sisdri=15.3745]
+Valid  -SISDR: -15.7729, SISDRi: 15.3745
+
+Epoch 45/60
+Epoch 45 - Train: 100%|██████████| [-sisdr=-23.0712, sisdri=22.7254]
+Train  -SISDR: -23.0712, SISDRi: 22.7254
+Epoch 45 - Valid: 100%|██████████| [-sisdr=-15.7689, sisdri=15.3705]
+Valid  -SISDR: -15.7689, SISDRi: 15.3705
+
+Epoch 46/60
+Epoch 46 - Train: 100%|██████████| [-sisdr=-23.1057, sisdri=22.7599]
+Train  -SISDR: -23.1057, SISDRi: 22.7599
+Epoch 46 - Valid: 100%|██████████| [-sisdr=-15.7830, sisdri=15.3846]
+Valid  -SISDR: -15.7830, SISDRi: 15.3846
+
+Epoch 47/60
+Epoch 47 - Train: 100%|██████████| [-sisdr=-23.1398, sisdri=22.7940]
+Train  -SISDR: -23.1398, SISDRi: 22.7940
+Epoch 47 - Valid: 100%|██████████| [-sisdr=-15.7643, sisdri=15.3659]
+Valid  -SISDR: -15.7643, SISDRi: 15.3659
+
+Epoch 48/60
+Epoch 48 - Train: 100%|██████████| [-sisdr=-23.1720, sisdri=22.8262]
+Train  -SISDR: -23.1720, SISDRi: 22.8262
+Epoch 48 - Valid: 100%|██████████| [-sisdr=-15.7743, sisdri=15.3759]
+Valid  -SISDR: -15.7743, SISDRi: 15.3759
+
+Epoch 49/60
+Epoch 49 - Train: 100%|██████████| [-sisdr=-23.2023, sisdri=22.8565]
+Train  -SISDR: -23.2023, SISDRi: 22.8565
+Epoch 49 - Valid: 100%|██████████| [-sisdr=-15.7699, sisdri=15.3715]
+Valid  -SISDR: -15.7699, SISDRi: 15.3715
+
+Epoch 50/60
+Epoch 50 - Train: 100%|██████████| [-sisdr=-23.2379, sisdri=22.8921]
+Train  -SISDR: -23.2379, SISDRi: 22.8921
+Epoch 50 - Valid: 100%|██████████| [-sisdr=-15.7672, sisdri=15.3688]
+Valid  -SISDR: -15.7672, SISDRi: 15.3688
+
+Epoch 51/60
+Epoch 51 - Train: 100%|██████████| [-sisdr=-23.2668, sisdri=22.9210]
+Train  -SISDR: -23.2668, SISDRi: 22.9210
+Epoch 51 - Valid: 100%|██████████| [-sisdr=-15.7740, sisdri=15.3756]
+Valid  -SISDR: -15.7740, SISDRi: 15.3756
+
+Epoch 52/60
+Epoch 52 - Train: 100%|██████████| [-sisdr=-23.2961, sisdri=22.9503]
+Train  -SISDR: -23.2961, SISDRi: 22.9503
+Epoch 52 - Valid: 100%|██████████| [-sisdr=-15.7688, sisdri=15.3704]
+Valid  -SISDR: -15.7688, SISDRi: 15.3704
+
+Epoch 53/60
+Epoch 53 - Train: 100%|██████████| [-sisdr=-23.3243, sisdri=22.9785]
+Train  -SISDR: -23.3243, SISDRi: 22.9785
+Epoch 53 - Valid: 100%|██████████| [-sisdr=-15.7764, sisdri=15.3780]
+Valid  -SISDR: -15.7764, SISDRi: 15.3780
+
+Epoch 54/60
+Epoch 54 - Train: 100%|██████████| [-sisdr=-23.3589, sisdri=23.0131]
+Train  -SISDR: -23.3589, SISDRi: 23.0131
+Epoch 54 - Valid: 100%|██████████| [-sisdr=-15.7748, sisdri=15.3764]
+Valid  -SISDR: -15.7748, SISDRi: 15.3764
+
+Epoch 55/60
+Epoch 55 - Train: 100%|██████████| [-sisdr=-23.3881, sisdri=23.0423]
+Train  -SISDR: -23.3881, SISDRi: 23.0423
+Epoch 55 - Valid: 100%|██████████| [-sisdr=-15.7633, sisdri=15.3649]
+Valid  -SISDR: -15.7633, SISDRi: 15.3649
+
+Epoch 56/60
+Epoch 56 - Train: 100%|██████████| [-sisdr=-23.4160, sisdri=23.0702]
+Train  -SISDR: -23.4160, SISDRi: 23.0702
+Epoch 56 - Valid: 100%|██████████| [-sisdr=-15.7519, sisdri=15.3535]
+Valid  -SISDR: -15.7519, SISDRi: 15.3535
+
+Epoch 57/60
+Epoch 57 - Train: 100%|██████████| [-sisdr=-23.4434, sisdri=23.0976]
+Train  -SISDR: -23.4434, SISDRi: 23.0976
+Epoch 57 - Valid: 100%|██████████| [-sisdr=-15.7561, sisdri=15.3577]
+Valid  -SISDR: -15.7561, SISDRi: 15.3577
+
+Epoch 58/60
+Epoch 58 - Train: 100%|██████████| [-sisdr=-23.4676, sisdri=23.1218]
+Train  -SISDR: -23.4676, SISDRi: 23.1218
+Epoch 58 - Valid: 100%|██████████| [-sisdr=-15.7713, sisdri=15.3729]
+Valid  -SISDR: -15.7713, SISDRi: 15.3729
+
+Epoch 59/60
+Epoch 59 - Train: 100%|██████████| [-sisdr=-23.4980, sisdri=23.1522]
+Train  -SISDR: -23.4980, SISDRi: 23.1522
+Epoch 59 - Valid: 100%|██████████| [-sisdr=-15.7596, sisdri=15.3612]
+Valid  -SISDR: -15.7596, SISDRi: 15.3612
+
+Epoch 60/60
+Epoch 60 - Train: 100%|██████████| [-sisdr=-23.6105, sisdri=23.2647]
+Train  -SISDR: -23.6105, SISDRi: 23.2647
+Epoch 60 - Valid: 100%|██████████| [-sisdr=-15.7654, sisdri=15.3670]
+Valid  -SISDR: -15.7654, SISDRi: 15.3670
+Training completed, best validation SISDRi = 15.4012
+
+===== Load the best weights and calculate the final metrics in real time =====
+Epoch Best - Valid: 100%|██████████| [-sisdr=-15.9092, sisdri=15.5108, pesq=2.36, stoi=0.91, estoi=0.81]
+
+===== Best-Model Metrics (validation set) =====
+SISDR   : 15.9092 dB
+SISDRi  : 15.5108 dB
+PESQ    : 2.362015
+STOI    : 0.9190
+ESTOI   : 0.8168
