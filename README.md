@@ -5,10 +5,12 @@ Pytorch implementation on: TFGA-Net: Temporal-Frequency Graph Attention Network 
 The rapid development of auditory attention decoding (AAD) based on electroencephalography (EEG) signals offers the possibility EEG-driven target speaker extraction.However, how to effectively utilize the target-speaker common information between EEG and speech remains an unresolved problem. In this paper, we propose a model for brain-controlled speaker extraction, which utilizes the EEG recorded from the listener to extract the target speech. In order to effectively extract information from EEG signals, we derive multi-scale time--frequency features and further incorporate cortical topological structures that are selectively engaged during the task. Moreover, to effectively exploit the non-Euclidean structure of EEG signals and capture their global features, the graph convolutional networks and self-attention mechanism are used in the EEG encoder. In addition, to make full use of the fused EEG and speech feature and preserve global context and capture speech rhythm and prosody, we introduce MossFormer2 which combines MossFormer and RNN-Free Recurrent as separator.
 Experimental results on both the public Cocktail Party and KUL dataset in this paper show that our TFGA-Net model significantly outper-forms the state-of-the-art method in certain objective evaluation metrics. Our codes and models will be available on GitHub after review.
 
-<img width="2040" height="526" alt="image" src="https://github.com/user-attachments/assets/459e0af5-a7e6-4c5e-a6bc-238240edd4bb" />
+<img width="1814" height="474" alt="image" src="https://github.com/user-attachments/assets/d2213602-0234-4a89-9944-7a54e148a51a" />
 
 
-<img width="524" height="482" alt="image" src="https://github.com/user-attachments/assets/a3475d33-758e-49d0-8218-3fa1ba3afa52" />
+<p align="center">
+  <img width="450" alt="image" src="https://github.com/user-attachments/assets/e588ca05-9002-490f-a601-38f1d75c0800" />
+</p>
 
 
 ## Requiements
